@@ -7,5 +7,5 @@ Compared to the traditional way of filling out questionnaires, we using social p
 
 [![demo](https://github.com/Larry-Wendy/MBTI_classification/blob/main/coverpage.png)](https://youtu.be/aFgrYO8kDU4 "demo")
 
-__Dataset__:  
-This is a dataset that contains 106K records of preprocessed posts online from the PersonalityCafe forum and Reddit. Where each post is 500 words long and has been annotated with personality type. The dataset was covered by Dylan Storey and Mitchell Jolly. The dataset has a volume of 346MB. The velocity of the dataset is 0 since it stopped updating. There are a total of 16 personalities included. The original dataset has an unbalanced distribution of personality. Therefore, we have used an oversample to balance the dataset and made each personality have 25K entries.
+- __Dataset__:  
+  - This is a dataset that contains 106K records of preprocessed posts online from the PersonalityCafe forum and Reddit. Where each post is 500 words long and has been annotated with personality type. The dataset was covered by Dylan Storey and Mitchell Jolly. The dataset has a volume of 346MB. The velocity of the dataset is 0 since it stopped updating. There are a total of 16 personalities included. The original dataset has an unbalanced distribution of personality. Therefore, we have used an oversample to balance the dataset and made each personality have 25K entries.
