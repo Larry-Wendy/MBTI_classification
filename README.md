@@ -6,3 +6,5 @@ Compared to the traditional way of filling out questionnaires, we using social p
 
 
 [![demo](https://github.com/Larry-Wendy/MBTI_classification/blob/main/coverpage.png)](https://youtu.be/aFgrYO8kDU4 "demo")
+
+_Dataset_
