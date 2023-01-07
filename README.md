@@ -2,4 +2,4 @@
 Dataprocessing file Twitter Api  
 
 
-[![demo]({image-url})]([{video-url}](https://youtu.be/aFgrYO8kDU4) "demo")
+[![demo](https://github.com/Larry-Wendy/MBTI_classification/blob/main/coverpage.png)](https://youtu.be/aFgrYO8kDU4 "demo")
